@@ -1,4 +1,4 @@
 git push -u origin Nome_Branch
 Git add .
 Git init 
-Git commit - m "Mensagem"
+Git commit - m "Mensagem".
